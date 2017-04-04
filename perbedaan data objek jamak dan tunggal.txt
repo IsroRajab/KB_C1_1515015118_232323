@@ -1,0 +1,15 @@
+NAMA : Isro Rajab
+NIM : 1515015118
+soal:
+perbedaan data objek sederhana dan jamak?
+jawab:
+
+data objek sederhana terdiri dari 2 yaitu variable dan konstanta. dimana konstanta yaitu
+apapun yang diidentifikasi sebagai objek bukan subjek yang nilainya bervariasi, dapat berupa
+char, angka dan atom.
+
+data objek jamak adalah data yang memerlukan beberapa informasi sebagai sebuah item tunggal.
+contohnya:
+orang = orang(nama,jeni-kelamin)
+nama = nama(nama-depan,nama-belakang)
+terlihat pada contoh diatas, objek nama masih memiliki objek lagi, yaitu nama depan dan nama belakang. 
